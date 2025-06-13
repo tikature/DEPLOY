@@ -1,5 +1,3 @@
-package src.main.java;
-
 public class AreaCalculator {
 
 	public static double calculateArea(ShapeType shapeType, double... dimensions) {
