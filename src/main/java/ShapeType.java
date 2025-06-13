@@ -1,4 +1,3 @@
-import src.main.java;
 
 public enum ShapeType {
 	CIRCLE,
