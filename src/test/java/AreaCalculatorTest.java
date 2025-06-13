@@ -1,4 +1,5 @@
-package src.main.java;
+package src.main.java.ShapeType;
+package src.main.java.AreaCalculator;
 import static org.junit.Assert.*;
 import src.main.java.*;
 import org.junit.Test;
